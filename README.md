@@ -1,0 +1,2 @@
+# 100-DAYS-OF-CODING-BY-C
+Repository for recording the code of 100DAYSOFCODING CHALLENGE IN C LANGUAGE
