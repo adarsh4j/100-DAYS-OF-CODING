@@ -1,3 +1,7 @@
+//write a program to find quadrant by entering input a,b
+
+        //solution
+
 #include <stdio.h>
 int main()
 {
