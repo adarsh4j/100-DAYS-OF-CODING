@@ -1,3 +1,7 @@
+//write a program to find integer is even or odd
+
+      //solution
+
 #include<stdio.h>
 void main()
 {
