@@ -1,3 +1,7 @@
+//write a program to find the day by entering month and year//
+
+        //solution
+
 #include<stdio.h>
 int main()
 {
