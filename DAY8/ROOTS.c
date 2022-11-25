@@ -1,3 +1,7 @@
+//write a program to find the root of a,b,c//
+
+//solution
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
