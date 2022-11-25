@@ -1,3 +1,5 @@
+//write a program to find whether number is even or oddd
+
 #include<stdio.h>
 int main()
 {
