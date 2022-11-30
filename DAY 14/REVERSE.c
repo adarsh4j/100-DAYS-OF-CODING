@@ -12,4 +12,4 @@ int main()
    }
    printf("Reverse string is %d",rev);
    return 0;
-  }
+}
