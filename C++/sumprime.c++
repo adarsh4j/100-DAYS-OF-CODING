@@ -18,14 +18,14 @@ int main() {
     cout << a << " can't be expressed as sum of two prime numbers.";
   return 0;
 }
-bool prime_or_not(int a) {
+bool prime_or_not(int m) {
   int i;
   bool is_prime = true;
-  if (a == 0 || a == 1) {
+  if (m == 0 || m == 1) {
     is_prime = false;
   }
-  for(i = 2; i <= a/2; ++i) {
-    if(a % i == 0) {
+  for(i = 2; i <= m/2; ++i) {
+    if(m % i == 0) {
       is_prime = false;
       break;
     }
