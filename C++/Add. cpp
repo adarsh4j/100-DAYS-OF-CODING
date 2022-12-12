@@ -1,0 +1,41 @@
+#include<iostream>
+
+using namespace std;
+
+int add(int b,int c)
+
+{
+
+int i;
+
+for(i=0;i<c;i++)
+
+{
+
+	b++;}
+
+return b;
+
+}
+
+int main()
+
+{
+
+	int a,b,c;
+
+	cout<<"Enter the first number:"<<endl;
+
+	cin>>b;
+
+	cout<<"Enter the second number:"<<endl;
+
+	cin>>c;
+
+	a=add(b,c);
+
+	cout<<"The sum without airthmetic operation is : "<<a<<endl;
+
+  return 0;
+
+}
