@@ -1,0 +1,53 @@
+Hello Adarsh,
+
+Work Hard Till You Succeed
+
+Go to dashboard.
+
+TechnicalCourses
+
+Day 56 Coding Statement
+
+Day 56 Coding Statement 
+
+Kindly note,
+
+1) Coding solution of today's programs will be uploaded the next day at 5 pm.
+
+2) New coding statement for Day 57 will be added the next day at 5 pm.
+
+3) Once you complete, today's coding statements, submit this study status form : https://forms.gle/WnsBkpVAu52kNWCq6
+
+ 
+
+Please check the below steps to upload the code text file:
+
+1) You need to copy your code in the text file.
+
+2) Save that file in PDF format. ( if you don't know how to save in PDF format, you can search it on Google) 
+
+3) Name of file should be: yourfullname_Day1 , for eg: RohitSharmaDay5
+
+4) Size of the file should not exceed 500 kb.
+
+ 
+
+Day 56 coding Statement : Write Program to find whether the numbers of an array be made equal
+
+Description
+
+Check whether the numbers of array be made equal or not
+
+For eg, for the following input it should print yes because
+
+50*2*3 , 75*2*2 and 150*2 are equal to 300 in all cases. So array numbers can be made equal
+
+Input
+
+3
+
+50 75 150
+
+Output
+
+Yes
